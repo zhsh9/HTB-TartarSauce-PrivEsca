@@ -8,8 +8,8 @@ change your own local ip and port inside scripts.
 
 - local host
 ```
-git clone
-cd
+git clone https://github.com/zhsh9/HTB-TartarSauce-PrivEsca.git --depth 1
+cd HTB-TartarSauce-PrivEsca
 chmod +x local.sh
 ./local.sh
 ```
