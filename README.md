@@ -1,6 +1,6 @@
-# Environment: TartarSauce
-Macine: [TartarSauce](https://app.hackthebox.com/machines/TartarSauce)
-Info: HackTheBox TartarSauce, Privilege Escalation process from onuma to root.
+# HackTheBox Environment
+- Macine: [TartarSauce](https://app.hackthebox.com/machines/TartarSauce)
+- Info: HackTheBox TartarSauce, Privilege Escalation process from onuma to root.
 
 # Usage
 
