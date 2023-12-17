@@ -8,7 +8,7 @@ echo """#include <stdio.h>
 int main() {
     setuid(0);
     setgid(0);
-    system("/bin/bash");
+    system(\"/bin/bash\");
     return 0;
 }""" > ./a.c
 
