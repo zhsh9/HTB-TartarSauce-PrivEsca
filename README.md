@@ -17,5 +17,6 @@ chmod +x local.sh
 - remote host
 ```bash
 curl -O http://<IP>:<PORT>/remote.sh
+chmod +x remote.sh
 ./remote.sh
 ```
