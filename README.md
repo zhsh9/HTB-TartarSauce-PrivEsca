@@ -4,7 +4,7 @@
 
 # Usage
 
-change your own local ip and port inside scripts.
+change your own local ip and port before executing these scripts.
 
 - local host
 ```
